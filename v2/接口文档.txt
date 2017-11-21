@@ -1,0 +1,12 @@
+1. url /user/delete method get name 删除用户
+   参数 id 
+   返回值 修改状态
+2. url /user/save   method post name 添加、修改用户
+   参数 User 实体
+   返回值 修改状态
+3. url /user/queryById method get name 根据id查询用户
+	参数 id
+	返回值 User实体
+4. url /user/queryByAge  method get name 根据年龄查找用户
+	参数 age
+	返回值 User实体列表
