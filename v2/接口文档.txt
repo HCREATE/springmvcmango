@@ -1,3 +1,4 @@
+用户
 1. url /user/delete method get name 删除用户
    参数 id 
    返回值 修改状态
